@@ -1,0 +1,50 @@
+Go took 6.6 seconds. Python took 12 Minutes
+
+description:
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/description/fannkuchredux.html#fannkuchredux
+
+NOTES:
+64-bit Windows i7-10750h 6 core
+
+go version go1.19.2 windows/amd64
+
+Thu, 17th November 2022
+
+COMMAND LINE:
+Measure-Command { go run .\main.go 12}      
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 657
+Ticks             : 66577316
+TotalDays         : 7.70570787037037E-05
+TotalHours        : 0.00184936988888889
+TotalMinutes      : 0.110962193333333
+TotalSeconds      : 6.6577316
+TotalMilliseconds : 6657.7316
+
+3968050
+Pfannkuchen(12) = 65
+
+
+COMMAND LINE:
+Measure-Command {python .\main.py 12}     
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 12
+Seconds           : 51
+Milliseconds      : 485
+Ticks             : 7714857614
+TotalDays         : 0.00892923334953704
+TotalHours        : 0.214301600388889
+TotalMinutes      : 12.8580960233333
+TotalSeconds      : 771.4857614
+TotalMilliseconds : 771485.7614
+
+3968050
+Pfannkuchen(12) = 65
