@@ -1,0 +1,65 @@
+[INFO] root: [Thread-1 (log)] running thread
+[INFO] root: [Thread-2 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.2683823569433098.
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.11000015517142536.
+[INFO] root: [Thread-4 (log)] running thread
+[INFO] root: [Thread-5 (log)] running thread
+[INFO] root: [Thread-6 (log)] running thread
+[INFO] root: [Thread-7 (log)] running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.07881214864414776.
+[DEBUG] root: [Thread-2 (log)] Received value 0.35992727285333737.
+[INFO] root: [Thread-9 (log)] running thread
+[DEBUG] root: [Thread-9 (log)] Received value 0.9674872365344708.
+[DEBUG] root: [Thread-4 (log)] Received value 0.6789113632670711.
+[DEBUG] root: [Thread-5 (log)] Received value 0.0009868603896616701.
+[DEBUG] root: [Thread-6 (log)] Received value 0.160242806127727.
+[INFO] root: [Thread-8 (log)] running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.4446396633457753.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-10 (log)] Received value 0.2605735763373881.
+[INFO] root: [Thread-5 (log)] completed running thread
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[INFO] root: [Thread-3 (log)] completed running thread
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.1568859508593642.
+[DEBUG] root: [Thread-10 (log)] Received value 0.7994299017021426.
+[DEBUG] root: [Thread-2 (log)] Received value 0.8742062445261962.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.18448189198352583.
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.7292746605060931.
+[DEBUG] root: [Thread-9 (log)] Received value 0.8030923270740556.
+[DEBUG] root: [Thread-10 (log)] Received value 0.6203984025940464.
+[DEBUG] root: [Thread-2 (log)] Received value 0.2774292531139779.
+[DEBUG] root: [Thread-4 (log)] Received value 0.5902822781140121.
+[DEBUG] root: [Thread-2 (log)] Received value 0.5408165658768628.
+[DEBUG] root: [Thread-10 (log)] Received value 0.06208436804522677.
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[DEBUG] root: [Thread-9 (log)] Received value 0.7330150007986124.
+[DEBUG] root: [Thread-4 (log)] Received value 0.49104469663474026.
+[DEBUG] root: [Thread-2 (log)] Received value 0.6271426606274201.
+[DEBUG] root: [Thread-9 (log)] Received value 0.4177223592537427.
+[DEBUG] root: [Thread-4 (log)] Received value 0.7441400842285832.
+[DEBUG] root: [Thread-2 (log)] Received value 0.34466090257461923.
+[DEBUG] root: [Thread-9 (log)] Received value 0.10378321721392147.
+[DEBUG] root: [Thread-2 (log)] Received value 0.17325890931379084.
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.361273035930354.
+[DEBUG] root: [Thread-4 (log)] Received value 0.36362891375199236.
+[DEBUG] root: [Thread-4 (log)] Received value 0.305280683945652.
+[DEBUG] root: [Thread-4 (log)] Received value 0.30185912519937386.
+[DEBUG] root: [Thread-4 (log)] Received value 0.34180184732256036.
+[DEBUG] root: [Thread-4 (log)] Received value 0.04602498924090248.
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread
