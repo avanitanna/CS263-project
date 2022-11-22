@@ -59,7 +59,7 @@ func mergeSort(arr []int) []int {
 }
 
 func main() {
-	n := 1000000
+	n := 10000000
 	arr := createRandomArray(n)
 	_ = mergeSort(arr)
 }

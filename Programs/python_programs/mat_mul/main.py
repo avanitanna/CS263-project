@@ -2,9 +2,9 @@ import threading
 import numpy as np
 
 # default num of threads
-threads = 5 
+threads = 10 
 # default mat dim
-mat_dim = 10000
+mat_dim = 500
 mat_A = []
 mat_B = []
 # res matrix to store mat mul of A and B 

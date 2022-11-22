@@ -63,3 +63,402 @@
 [DEBUG] root: [Thread-4 (log)] Received value 0.04602498924090248.
 [WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
 [INFO] root: [Thread-4 (log)] completed running thread
+[INFO] root: [Thread-1 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.4157264856031463.
+[INFO] root: [Thread-2 (log)] running thread
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.4981562672741189.
+[INFO] root: [Thread-4 (log)] running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.9355615829561524.
+[INFO] root: [Thread-5 (log)] running thread
+[INFO] root: [Thread-6 (log)] running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.492384304228085.
+[INFO] root: [Thread-7 (log)] running thread
+[INFO] root: [Thread-8 (log)] running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.26828483058646724.
+[INFO] root: [Thread-9 (log)] running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.14385008713766656.
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.9645658558229572.
+[DEBUG] root: [Thread-8 (log)] Received value 0.186813171570551.
+[DEBUG] root: [Thread-9 (log)] Received value 0.6268055054492239.
+[DEBUG] root: [Thread-10 (log)] Received value 0.5342966065181105.
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.5362710438428394.
+[DEBUG] root: [Thread-1 (log)] Received value 0.6833013443699383.
+[DEBUG] root: [Thread-4 (log)] Received value 0.20384925909660967.
+[DEBUG] root: [Thread-2 (log)] Received value 0.49308696103239347.
+[DEBUG] root: [Thread-10 (log)] Received value 0.4971121885407638.
+[DEBUG] root: [Thread-9 (log)] Received value 0.49606292920726636.
+[DEBUG] root: [Thread-4 (log)] Received value 0.5210838925974446.
+[DEBUG] root: [Thread-5 (log)] Received value 0.074523555886158.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-5 (log)] completed running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.41688172687780023.
+[DEBUG] root: [Thread-7 (log)] Received value 0.34092306684231755.
+[DEBUG] root: [Thread-2 (log)] Received value 0.09630437757681942.
+[DEBUG] root: [Thread-10 (log)] Received value 0.8627551903992056.
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.31852816005159823.
+[DEBUG] root: [Thread-9 (log)] Received value 0.37793803522277547.
+[DEBUG] root: [Thread-4 (log)] Received value 0.3996305061160699.
+[DEBUG] root: [Thread-7 (log)] Received value 0.630376687666885.
+[DEBUG] root: [Thread-3 (log)] Received value 0.549015057165158.
+[DEBUG] root: [Thread-1 (log)] Received value 0.6727492935076806.
+[DEBUG] root: [Thread-9 (log)] Received value 0.4808807198648857.
+[DEBUG] root: [Thread-4 (log)] Received value 0.09742096755872975.
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread
+[DEBUG] root: [Thread-10 (log)] Received value 0.39078825385107563.
+[DEBUG] root: [Thread-3 (log)] Received value 0.3962887966820312.
+[DEBUG] root: [Thread-7 (log)] Received value 0.3905878846574775.
+[DEBUG] root: [Thread-9 (log)] Received value 0.04939352364066241.
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.9491214692938218.
+[DEBUG] root: [Thread-10 (log)] Received value 0.20383329546565376.
+[DEBUG] root: [Thread-3 (log)] Received value 0.5390787461095143.
+[DEBUG] root: [Thread-7 (log)] Received value 0.21809245771572294.
+[DEBUG] root: [Thread-10 (log)] Received value 0.03072493586271685.
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.6731556514784844.
+[DEBUG] root: [Thread-3 (log)] Received value 0.5932909753922082.
+[DEBUG] root: [Thread-1 (log)] Received value 0.544266488959736.
+[DEBUG] root: [Thread-7 (log)] Received value 0.018985768425769045.
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.3956539365929793.
+[DEBUG] root: [Thread-1 (log)] Received value 0.7266889777492427.
+[DEBUG] root: [Thread-3 (log)] Received value 0.26367669077720146.
+[DEBUG] root: [Thread-3 (log)] Received value 0.019430798066857546.
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-3 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.03315161256396848.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[INFO] root: [Thread-1 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.7964203126916226.
+[INFO] root: [Thread-2 (log)] running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.7416354622019473.
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.557465385048133.
+[INFO] root: [Thread-4 (log)] running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.07926792422583362.
+[INFO] root: [Thread-5 (log)] running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.0282863088596631.
+[INFO] root: [Thread-6 (log)] running thread
+[INFO] root: [Thread-7 (log)] running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.10885637897613243.
+[DEBUG] root: [Thread-7 (log)] Received value 0.28565422385075656.
+[INFO] root: [Thread-8 (log)] running thread
+[INFO] root: [Thread-9 (log)] running thread
+[DEBUG] root: [Thread-9 (log)] Received value 0.820695317624694.
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-10 (log)] Received value 0.7222248353149567.
+[DEBUG] root: [Thread-8 (log)] Received value 0.09929205996877732.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-5 (log)] completed running thread
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.6950434003222263.
+[DEBUG] root: [Thread-3 (log)] Received value 0.38296818247405495.
+[DEBUG] root: [Thread-10 (log)] Received value 0.6997082219897404.
+[DEBUG] root: [Thread-2 (log)] Received value 0.7546910421842449.
+[DEBUG] root: [Thread-1 (log)] Received value 0.02930916925816518.
+[DEBUG] root: [Thread-9 (log)] Received value 0.7639076787683704.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.9539331522286053.
+[DEBUG] root: [Thread-7 (log)] Received value 0.6748852503314587.
+[DEBUG] root: [Thread-10 (log)] Received value 0.5941883590389379.
+[DEBUG] root: [Thread-2 (log)] Received value 0.4663043312596521.
+[DEBUG] root: [Thread-9 (log)] Received value 0.23090018477162155.
+[DEBUG] root: [Thread-7 (log)] Received value 0.1940077402331538.
+[DEBUG] root: [Thread-9 (log)] Received value 0.9902177180943541.
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.350677100793893.
+[DEBUG] root: [Thread-2 (log)] Received value 0.1732409606119728.
+[DEBUG] root: [Thread-10 (log)] Received value 0.29973176330023066.
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.3373757881898013.
+[DEBUG] root: [Thread-10 (log)] Received value 0.3197133331544515.
+[DEBUG] root: [Thread-3 (log)] Received value 0.10235478401632692.
+[DEBUG] root: [Thread-10 (log)] Received value 0.7317706639081025.
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-3 (log)] completed running thread
+[DEBUG] root: [Thread-9 (log)] Received value 0.37328964304447576.
+[DEBUG] root: [Thread-9 (log)] Received value 0.14205641927889534.
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[DEBUG] root: [Thread-10 (log)] Received value 0.9905358464079722.
+[DEBUG] root: [Thread-10 (log)] Received value 0.6771253085508092.
+[DEBUG] root: [Thread-10 (log)] Received value 0.5030883622431448.
+[DEBUG] root: [Thread-10 (log)] Received value 0.845443697129221.
+[DEBUG] root: [Thread-10 (log)] Received value 0.29469007394153846.
+[DEBUG] root: [Thread-10 (log)] Received value 0.690532853115612.
+[DEBUG] root: [Thread-10 (log)] Received value 0.1348445715855443.
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[INFO] root: [Thread-1 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.35293704085759003.
+[INFO] root: [Thread-2 (log)] running thread
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.583536420870202.
+[INFO] root: [Thread-4 (log)] running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.9717870284111503.
+[INFO] root: [Thread-5 (log)] running thread
+[INFO] root: [Thread-6 (log)] running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.6477568718448317.
+[INFO] root: [Thread-7 (log)] running thread
+[INFO] root: [Thread-8 (log)] running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.8354571744062691.
+[INFO] root: [Thread-9 (log)] running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.03575120700259815.
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.5892825354563904.
+[DEBUG] root: [Thread-8 (log)] Received value 0.8652759871121924.
+[DEBUG] root: [Thread-9 (log)] Received value 0.742647621661357.
+[DEBUG] root: [Thread-10 (log)] Received value 0.9823799614200622.
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.6902092644161401.
+[DEBUG] root: [Thread-2 (log)] Received value 0.6289884580046867.
+[DEBUG] root: [Thread-7 (log)] Received value 0.4888180943084197.
+[DEBUG] root: [Thread-4 (log)] Received value 0.19228458370618917.
+[DEBUG] root: [Thread-9 (log)] Received value 0.7775205875925942.
+[DEBUG] root: [Thread-5 (log)] Received value 0.7088225506260507.
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.3446781737899278.
+[DEBUG] root: [Thread-3 (log)] Received value 0.20546894211753708.
+[DEBUG] root: [Thread-10 (log)] Received value 0.026352984298286808.
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.7289728441386267.
+[DEBUG] root: [Thread-7 (log)] Received value 0.2719049849773735.
+[DEBUG] root: [Thread-3 (log)] Received value 0.3767298993154149.
+[DEBUG] root: [Thread-8 (log)] Received value 0.24644191039916863.
+[DEBUG] root: [Thread-2 (log)] Received value 0.5261308646296095.
+[DEBUG] root: [Thread-7 (log)] Received value 0.08044769283078879.
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.2419665937135721.
+[DEBUG] root: [Thread-9 (log)] Received value 0.14347803915288992.
+[DEBUG] root: [Thread-5 (log)] Received value 0.8940818657598699.
+[DEBUG] root: [Thread-3 (log)] Received value 0.06819545415423045.
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-3 (log)] completed running thread
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.5531508906813732.
+[DEBUG] root: [Thread-2 (log)] Received value 0.731700864732646.
+[DEBUG] root: [Thread-1 (log)] Received value 0.6750299544908838.
+[DEBUG] root: [Thread-8 (log)] Received value 0.21294725758619393.
+[DEBUG] root: [Thread-5 (log)] Received value 0.9269723867872396.
+[DEBUG] root: [Thread-1 (log)] Received value 0.17561711360010457.
+[DEBUG] root: [Thread-8 (log)] Received value 0.44868362212121227.
+[DEBUG] root: [Thread-2 (log)] Received value 0.15726991531369483.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.9725867049731777.
+[DEBUG] root: [Thread-5 (log)] Received value 0.008492158988655851.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-5 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.21726599310068528.
+[DEBUG] root: [Thread-8 (log)] Received value 0.4476927580822281.
+[DEBUG] root: [Thread-8 (log)] Received value 0.06031338027710498.
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[INFO] root: [Thread-1 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.8897966813031258.
+[INFO] root: [Thread-2 (log)] running thread
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.6933524144964157.
+[DEBUG] root: [Thread-3 (log)] Received value 0.03978952014345016.
+[INFO] root: [Thread-4 (log)] running thread
+[INFO] root: [Thread-5 (log)] running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.4807452916194713.
+[INFO] root: [Thread-6 (log)] running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.24558374482454637.
+[INFO] root: [Thread-7 (log)] running thread
+[INFO] root: [Thread-8 (log)] running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.20255936903264016.
+[INFO] root: [Thread-9 (log)] running thread
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.7051527208744128.
+[DEBUG] root: [Thread-8 (log)] Received value 0.6107194264388598.
+[DEBUG] root: [Thread-9 (log)] Received value 0.3069009101005251.
+[DEBUG] root: [Thread-10 (log)] Received value 0.9542078786337977.
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-3 (log)] completed running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.16055272684057686.
+[DEBUG] root: [Thread-5 (log)] Received value 0.1145116909079863.
+[DEBUG] root: [Thread-9 (log)] Received value 0.8074738469499211.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-5 (log)] completed running thread
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.7747289587372459.
+[DEBUG] root: [Thread-8 (log)] Received value 0.7534549888736688.
+[DEBUG] root: [Thread-2 (log)] Received value 0.6014141137693415.
+[DEBUG] root: [Thread-7 (log)] Received value 0.8773567884223937.
+[DEBUG] root: [Thread-1 (log)] Received value 0.947779497169823.
+[DEBUG] root: [Thread-10 (log)] Received value 0.38569874968964724.
+[DEBUG] root: [Thread-9 (log)] Received value 0.006848282961650631.
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.5364481297021324.
+[DEBUG] root: [Thread-2 (log)] Received value 0.5511661795636417.
+[DEBUG] root: [Thread-10 (log)] Received value 0.8248796523618166.
+[DEBUG] root: [Thread-8 (log)] Received value 0.4635685216567088.
+[DEBUG] root: [Thread-7 (log)] Received value 0.6445946526186451.
+[DEBUG] root: [Thread-4 (log)] Received value 0.9980988661365933.
+[DEBUG] root: [Thread-8 (log)] Received value 0.33079967846483804.
+[DEBUG] root: [Thread-1 (log)] Received value 0.6584340971591099.
+[DEBUG] root: [Thread-2 (log)] Received value 0.044380720860522915.
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-8 (log)] Received value 0.9359646484278126.
+[DEBUG] root: [Thread-10 (log)] Received value 0.3710020187055344.
+[DEBUG] root: [Thread-7 (log)] Received value 0.6364393315172922.
+[DEBUG] root: [Thread-1 (log)] Received value 0.8542468112986716.
+[DEBUG] root: [Thread-10 (log)] Received value 0.08621866248875132.
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.9645815532513499.
+[DEBUG] root: [Thread-7 (log)] Received value 0.32200878373321773.
+[DEBUG] root: [Thread-8 (log)] Received value 0.720104082833454.
+[DEBUG] root: [Thread-7 (log)] Received value 0.16040085256722625.
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.9077695470726148.
+[DEBUG] root: [Thread-4 (log)] Received value 0.12697430369998053.
+[DEBUG] root: [Thread-8 (log)] Received value 0.9420008352235727.
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.31194517761403495.
+[DEBUG] root: [Thread-1 (log)] Received value 0.3112040876917498.
+[DEBUG] root: [Thread-8 (log)] Received value 0.5595492150066714.
+[DEBUG] root: [Thread-1 (log)] Received value 0.4968031959464172.
+[DEBUG] root: [Thread-8 (log)] Received value 0.1125472607768857.
+[DEBUG] root: [Thread-1 (log)] Received value 0.5204590831969522.
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.6887732549776351.
+[DEBUG] root: [Thread-1 (log)] Received value 0.7717390289051099.
+[DEBUG] root: [Thread-1 (log)] Received value 0.440204261157192.
+[DEBUG] root: [Thread-1 (log)] Received value 0.6597153447722132.
+[DEBUG] root: [Thread-1 (log)] Received value 0.12209365815236417.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[INFO] root: [Thread-1 (log)] running thread
+[DEBUG] root: [Thread-1 (log)] Received value 0.9827498759141635.
+[INFO] root: [Thread-2 (log)] running thread
+[INFO] root: [Thread-3 (log)] running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.8852050999197068.
+[INFO] root: [Thread-4 (log)] running thread
+[DEBUG] root: [Thread-3 (log)] Received value 0.014142312323870976.
+[INFO] root: [Thread-5 (log)] running thread
+[INFO] root: [Thread-6 (log)] running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.7046365174620492.
+[INFO] root: [Thread-7 (log)] running thread
+[INFO] root: [Thread-8 (log)] running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.20847975620848225.
+[INFO] root: [Thread-9 (log)] running thread
+[DEBUG] root: [Thread-6 (log)] Received value 0.8883174911964532.
+[INFO] root: [Thread-10 (log)] running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.30595023927899145.
+[DEBUG] root: [Thread-8 (log)] Received value 0.5535560319610502.
+[DEBUG] root: [Thread-9 (log)] Received value 0.561837402743853.
+[DEBUG] root: [Thread-10 (log)] Received value 0.16316706855661733.
+[WARNING] root: [Thread-3 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-3 (log)] completed running thread
+[WARNING] root: [Thread-10 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-10 (log)] completed running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.3036276875217703.
+[DEBUG] root: [Thread-7 (log)] Received value 0.39677728183476546.
+[DEBUG] root: [Thread-5 (log)] Received value 0.784300275765067.
+[DEBUG] root: [Thread-8 (log)] Received value 0.6775297765827868.
+[DEBUG] root: [Thread-9 (log)] Received value 0.02638674193996371.
+[WARNING] root: [Thread-9 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-9 (log)] completed running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.9789856411958064.
+[DEBUG] root: [Thread-4 (log)] Received value 0.5278113055312131.
+[DEBUG] root: [Thread-2 (log)] Received value 0.8406278889784429.
+[DEBUG] root: [Thread-6 (log)] Received value 0.9516235455950547.
+[DEBUG] root: [Thread-1 (log)] Received value 0.7377869723034461.
+[DEBUG] root: [Thread-4 (log)] Received value 0.7096627083446917.
+[DEBUG] root: [Thread-8 (log)] Received value 0.9203124547788217.
+[DEBUG] root: [Thread-5 (log)] Received value 0.8045080478088481.
+[DEBUG] root: [Thread-6 (log)] Received value 0.5521052556340897.
+[DEBUG] root: [Thread-7 (log)] Received value 0.42060200915053836.
+[DEBUG] root: [Thread-1 (log)] Received value 0.924409522045308.
+[DEBUG] root: [Thread-2 (log)] Received value 0.4422890005342788.
+[DEBUG] root: [Thread-4 (log)] Received value 0.5140939637468623.
+[DEBUG] root: [Thread-8 (log)] Received value 0.0014705309017469803.
+[WARNING] root: [Thread-8 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-8 (log)] completed running thread
+[DEBUG] root: [Thread-7 (log)] Received value 0.6445146942875948.
+[DEBUG] root: [Thread-2 (log)] Received value 0.5719355418333731.
+[DEBUG] root: [Thread-6 (log)] Received value 0.1976903894221298.
+[DEBUG] root: [Thread-4 (log)] Received value 0.8432720082666921.
+[WARNING] root: [Thread-6 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-6 (log)] completed running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.46517415202160284.
+[DEBUG] root: [Thread-1 (log)] Received value 0.9655797968073325.
+[DEBUG] root: [Thread-2 (log)] Received value 0.9950282258354013.
+[DEBUG] root: [Thread-7 (log)] Received value 0.40579571352487387.
+[DEBUG] root: [Thread-5 (log)] Received value 0.3280693101523926.
+[DEBUG] root: [Thread-4 (log)] Received value 0.3752359243342561.
+[DEBUG] root: [Thread-7 (log)] Received value 0.8025181164367773.
+[DEBUG] root: [Thread-5 (log)] Received value 0.4112476050849967.
+[DEBUG] root: [Thread-4 (log)] Received value 0.5804327542778694.
+[DEBUG] root: [Thread-1 (log)] Received value 0.11297519367745801.
+[DEBUG] root: [Thread-5 (log)] Received value 0.4374852491823361.
+[WARNING] root: [Thread-1 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-1 (log)] completed running thread
+[DEBUG] root: [Thread-2 (log)] Received value 0.5155309257390612.
+[DEBUG] root: [Thread-7 (log)] Received value 0.9518000215276262.
+[DEBUG] root: [Thread-5 (log)] Received value 0.9516866990175574.
+[DEBUG] root: [Thread-4 (log)] Received value 0.6324271190720422.
+[DEBUG] root: [Thread-2 (log)] Received value 0.8490107776573486.
+[DEBUG] root: [Thread-4 (log)] Received value 0.9319054393317812.
+[DEBUG] root: [Thread-7 (log)] Received value 0.9942260913143262.
+[DEBUG] root: [Thread-5 (log)] Received value 0.844359799396551.
+[DEBUG] root: [Thread-2 (log)] Received value 0.2956612734030264.
+[DEBUG] root: [Thread-2 (log)] Received value 0.5453675952879599.
+[DEBUG] root: [Thread-4 (log)] Received value 0.9104325773472778.
+[DEBUG] root: [Thread-5 (log)] Received value 0.2605466597158905.
+[DEBUG] root: [Thread-2 (log)] Received value 0.9041301794351816.
+[DEBUG] root: [Thread-7 (log)] Received value 0.0023009666215310087.
+[WARNING] root: [Thread-7 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-7 (log)] completed running thread
+[DEBUG] root: [Thread-5 (log)] Received value 0.17884999947347457.
+[WARNING] root: [Thread-5 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-5 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.7861850241164371.
+[DEBUG] root: [Thread-2 (log)] Received value 0.41612831429624864.
+[DEBUG] root: [Thread-2 (log)] Received value 0.20680556290527952.
+[DEBUG] root: [Thread-4 (log)] Received value 0.7643850754079943.
+[DEBUG] root: [Thread-2 (log)] Received value 0.4765339725101817.
+[DEBUG] root: [Thread-2 (log)] Received value 0.08670878352585609.
+[WARNING] root: [Thread-2 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-2 (log)] completed running thread
+[DEBUG] root: [Thread-4 (log)] Received value 0.8521626173020695.
+[DEBUG] root: [Thread-4 (log)] Received value 0.2602905408397903.
+[DEBUG] root: [Thread-4 (log)] Received value 0.05298323327720167.
+[WARNING] root: [Thread-4 (log)] Stop! We have reached a value less than 0.2
+[INFO] root: [Thread-4 (log)] completed running thread

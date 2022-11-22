@@ -45,7 +45,7 @@ def mergeSort(arr):
             k += 1
 
 if __name__ == "__main__":
-    n = 1000000
+    n = 10000000
     createRandomArray(n)
     mergeSort(arr)
     #print(arr)

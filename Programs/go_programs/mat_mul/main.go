@@ -18,8 +18,8 @@ func generateMat(matDim int) ([][]int, [][]int) {
 }
 
 func main() {
-	numThreads := 5
-	matDim := 100
+	numThreads := 10
+	matDim := 1000
 	var matA, matB, res [][]int
 	for i := 0; i < matDim; i++ {
 		res = append(res, make([]int, matDim))
